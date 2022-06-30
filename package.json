@@ -1,6 +1,7 @@
 {
   "name": "test-react-app",
   "version": "0.1.0",
+  "homepage": "https://czapata08.github.io/formikForm/",
   "private": true,
   "dependencies": {
     "formik": "^2.2.5",
